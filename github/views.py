@@ -9,3 +9,5 @@ def index(request):
     return HttpResponse()
 
 def index2(request):
+    print('hahaha')
+    print('xixixi')
